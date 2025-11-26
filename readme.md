@@ -28,42 +28,51 @@ Sistem ini mencakup:
 ---
 
 ## 📂 Struktur Folder
+```
 PERPUSTAKAAN-ARCADIA/
 ├── client/
-│ ├── public/
-│ └── src/
-│ ├── pages/
-│ ├── components/
-│ ├── api.js
-│ └── App.jsx
+│   ├── public/
+│   └── src/
+│       ├── pages/
+│       ├── components/
+│       ├── api.js
+│       └── App.jsx
 └── server/
-├── routes/
-├── controllers/
-├── db.js
-├── idGenerator.js
-└── index.js
+    ├── routes/
+    ├── controllers/
+    ├── db.js
+    ├── idGenerator.js
+    └── index.js
+```
+
 
 ---
 
 ## 🚀 Cara Menjalankan
 
-### **1. Clone Repository**
+### **1. Clone Repository atau Download Zip kemudian masuk ke main folder**
 ```bash
 git clone https://github.com/retnomentarii/LSPArcadiaLib.git
 cd LSPArcadiaLib
+```
 2. Backend
+```bash
 cd server
 npm install
 node index.js
+```
 Server berjalan di:
 http://localhost:5050
-3. Frontend
+4. Frontend
+```bash
 cd client
 npm install
 npm run dev
+```
 Frontend berjalan di:
-http://localhost:5173
-📌 Catatan
+http://localhost:3000
+
+## 📌 Catatan
 Karena folder client tidak terbaca oleh GitHub, disediakan file ZIP:
 🔗 https://drive.google.com/file/d/1pqHqnbmoN6i_K97IKkrH1FCTuQTvzN7w/view?usp=sharing
 

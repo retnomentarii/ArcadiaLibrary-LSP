@@ -1,4 +1,4 @@
-# LSP - Arcadia Dhrive-Thru Library
+# Fullstack Library Management System (Node.js • React • MySQL)
 PERPUSTAKAAN ARCADIA
 Sistem Manajemen Perpustakaan — Fullstack Web App (Node.js + React + MySQL)
 📌 Deskripsi

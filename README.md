@@ -1,7 +1,7 @@
 # Fullstack Library Management System (Node.js • React • MySQL)
 PERPUSTAKAAN ARCADIA
 Sistem Manajemen Perpustakaan — Fullstack Web App (Node.js + React + MySQL)
-📌 Deskripsi
+# 📌 Deskripsi
 Perpustakaan Arcadia adalah aplikasi web full-stack yang dirancang untuk mengelola data buku, peminjaman, peminjam, dan admin.
 Project ini dibuat dengan React untuk frontend, Express.js untuk backend API, dan MySQL sebagai database utama.
 Aplikasi ini mendukung:
@@ -11,7 +11,7 @@ Proses Peminjaman & Pengembalian Buku
 Upload Foto Peminjam
 Hak akses peran peminjam dan admin
 
-🛠️ Tech Stack
+# 🛠️ Tech Stack
 Frontend
 React.js
 React-Bootstrap
@@ -24,7 +24,7 @@ Multer (upload gambar)
 Database
 MySQL
 
-Struktur Folder
+# Struktur Folder
 PERPUSTAKAAN-ARCADIA/
 ├── client/               # Frontend React
 │   ├── public/
@@ -40,7 +40,7 @@ PERPUSTAKAAN-ARCADIA/
     ├── idGenerator.js
     └── index.js
 
-🚀 Cara Menjalankan Project
+# 🚀 Cara Menjalankan Project
 1. Clone Repository atau Download Zip
    git clone https://github.com/retnomentarii/LSPArcadiaLib.git
    cd LSPArcadiaLib
